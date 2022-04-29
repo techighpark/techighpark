@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
 
 
-
+<div width="500px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=techighpark&show_icons=true&theme=slateorange" card_width="300"/>
+</div>
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techighpark&layout=compact&theme=slateorange" />
+</div>
 
 
