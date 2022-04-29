@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techighpark&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techighpark&show_icons=true&theme=slateorange&card_width=300)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techighpark&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techighpark)](https://github.com/anuraghazra/github-readme-stats)
