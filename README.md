@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechighpark&count_bg=%23F736FF&title_bg=%23555555&icon=ifood.svg&icon_color=%23CFCFCF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techighpark)](https://github.com/anuraghazra/github-readme-stats)
