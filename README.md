@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats]()
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techighpark&layout=compact&theme=slateorange" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=techighpark&show_icons=true&theme=slateorange" card_width="300"/>
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techighpark&layout=compact&theme=slateorange" />
+
+
