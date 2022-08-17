@@ -1,8 +1,6 @@
 # Hello Taekwan 👋
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechighpark&count_bg=%23F736FF&title_bg=%23555555&icon=ifood.svg&icon_color=%23CFCFCF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/4160?logoColor=white%26project=%26recentMS=0%26showProject=false" /> -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechighpark%2Fhit-counter&count_bg=%23FF9400&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
